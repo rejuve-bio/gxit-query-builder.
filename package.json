@@ -57,7 +57,7 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
-    "react-router-dom": "^7.5.3",
+    "react-router-dom": "^7.13.1",
     "sass-embedded": "^1.89.2",
     "tw-animate-css": "^1.2.9",
     "vite": "^6.4.1"
